@@ -1,3 +1,5 @@
+-- WATCHOUT - DO NOT USE ON PUBLIC FOLDERS AS THE SCRIPT CAN USE ALREADY OPEN DOCUMENTS VS THE INTENDED DOCUMENT -- IT HAS A BUG
+
 -- this script adapted from post at https://discussions.apple.com/thread/3050596?start=0&tstart=0 solution by spazek
 -- details on the use of this script for Hazel found a http://scrubbs.me
 --  Updated with delay to solve issue as described by Corwin Carr   at Mac Power Users Show 186 notes http://5by5.tv/mpu/186  

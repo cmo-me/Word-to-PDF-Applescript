@@ -1,5 +1,7 @@
-Word-to-PDF-Applescript
-=======================
+Word-to-PDF-Applescript - Deprecated
+====================================
+
+I am no longer using this script. Please test thoroughly and update as needed if you choose to use this.
 
 WATCH-OUT - there is a bug in the script that saves pdf's of already open documents instead of the intended word document. DO NOT USE ON PUBLIC FOLDERS WHERE UNINTENDED INFORMATION COULD BE SHARED'
 
